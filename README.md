@@ -8,7 +8,7 @@ Laboratorio 1 - aplicaciones web
 ###### 1. LINK DEL EJERCICIO A: https://codepen.io/Ana-Isabel-P-rez-P-iz/pen/xxBLBKp
 
 #### ***PROYECTO AL QUE SE REALIZO EL FORK***
-###### 1. LINK DEL PRIYECTO: https://github.com/CC-4
+###### 1. LINK DEL PRIYECTO: [https://github.com/CC-4](https://github.com/CC-4/LAB1-WEB)
 
 #### ***PROYECTOS DE MI INTERES***
 ###### 1. MARVOL-PRIYECT LINK: https://github.com/yadurani/marvol-project.git
